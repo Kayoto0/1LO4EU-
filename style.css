@@ -1,7 +1,7 @@
 body {
     height: 100%;
     width: 100%;
-    background:#122139;
+    background:#000000;
     overflow: hidden;
   }
   
@@ -213,7 +213,7 @@ body {
   .container .thorns > div {
     width: 30px;
     height: 30px;
-    background: #066406;
+    background: #000000;
     top: 100px;
     left: 10px;
   }
@@ -223,7 +223,7 @@ body {
     -moz-border-radius: 100%;
     -webkit-border-radius: 100%;
     border-radius: 100%;
-    background: #122139;
+    background: #000000;
     content: "";
     position: absolute;
     left: -12px;
@@ -235,7 +235,7 @@ body {
     -moz-border-radius: 100%;
     -webkit-border-radius: 100%;
     border-radius: 100%;
-    background: #122139;
+    background: #000000;
     content: "";
     position: absolute;
     left: -11px;
